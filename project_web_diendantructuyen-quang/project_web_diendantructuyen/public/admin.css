@@ -1,0 +1,264 @@
+﻿body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row:after {
+    display: block;
+    content: ' ';
+    clear: both;
+}
+
+/*tu 769 den 1680 man hinh desktop*/
+@media only screen and (min-device-width: 769px) and (max-device-width: 1680px) {
+    .col-m-6, .col-m-3 {
+        float: left;
+    }
+
+    .col-m-6 {
+        width: 36%;
+    }
+
+    .col-m-3 {
+        width: 20%;
+    }
+}
+/*Khi co dãn xuống <=768px thi tro thanh man hinh di dong*/
+@media only screen and (min-device-width: 360px) and (max-device-width: 768px) {
+    .col-s-12 {
+        float: left;
+    }
+
+    .col-s-12 {
+        width: 100%;
+    }
+
+    .chart > img {
+        width: 100%;
+        /*margin: 0 0 0 12%;*/
+    }
+}
+
+/*phần header*/
+.header {
+    background-color: #3c8dbc;
+}
+
+    .header > h1 {
+        color: white;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin: 0;
+        text-align: center;
+    }
+/*Kết thúc phần header*/
+
+/*Phần menu*/
+ul.menu {
+    list-style: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+    ul.menu > li {
+        padding: 5px 15px 5px 15px;
+    }
+
+        ul.menu > li > a {
+            text-decoration: none;
+           background-color: #2c3b41;
+            color: white;
+            font-weight: bold;
+            padding: 8px 5px 8px 10px;
+            display: block;
+        }
+
+            ul.menu > li > a:hover {
+                background-color: yellow;
+                color: black;
+            }
+/*Kết thúc phần menu*/
+
+.container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*phần news*/
+ul.news {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+    ul.news > li {
+        padding: 5px 15px 5px 15px;
+    }
+
+        ul.news > li > p:first-child > a {
+            text-decoration: none;
+            color: green;
+            font-size: 15pt;
+        }
+
+            ul.news > li > p:first-child > a:hover {
+                color: blue;
+            }
+
+        ul.news > li > p:last-child {
+            text-align: right;
+            margin-bottom: 0;
+        }
+
+            ul.news > li > p:last-child > a {
+                text-decoration: none;
+                font-size: 12pt;
+            }
+
+                ul.news > li > p:last-child > a:hover {
+                    color: gray;
+                }
+/*Kết thúc phần news*/
+.link {
+    text-decoration: none;
+    font-size: 19px;
+    color: #fff;
+}
+.link1 {
+    text-decoration: none;
+}
+.link1:hover {
+   color: #808080;
+}
+
+.add-user {
+    font-size: 30px;
+    text-align: center;
+}
+
+.themuser {
+    width: 97px;
+    background-color: darkblue;
+    margin-top: 2%;
+    padding: 3px
+}
+
+form {
+    /*margin-left: 6%;*/
+}
+
+.form-control {
+    padding: 7px;
+    width : 290px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-control-1 {
+    width : 309px;
+    margin-top: 4%;
+}
+
+.btn-primary {
+    padding: 8px 23px 8px 23px;
+    background-color: #00acd6;
+    color: white;
+    border-radius: -1%;
+}
+table {
+    border-collapse: collapse;
+    width: 93%;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    /*background-color: #f2f2f2*/
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+   
+    text-align: center;
+}
+.grid_view {
+    width: 70%;
+    margin-top: 20%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+}
+.button_process {
+    float: right;
+    margin-right: 46%;
+    margin-bottom: 4%;
+    margin-top: 2%;
+}
+.aspNetDisabled {
+    padding: 8px 23px 8px 23px;
+    /*background-color: #00acd6;*/
+    color: white;
+    border-radius: 15%;
+}
+.validate-image{
+    margin-top: 4%;
+}
+.thongke {
+    float: left;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.baidang {
+    float: left;
+    margin-left: 3%;
+}
+.sty-flo {
+    float: left;
+    margin-right: 4%;
+}
+.button1 {
+    background-color: #2569b5;
+    color: white;
+    border: 1px solid transparent;
+    width: auto !important;
+    padding: 10px 20px;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    border-radius: 25px;
+}
+.button111 {
+    background-color: red;
+    color: white;
+    border: 1px solid transparent;
+    width: auto !important;
+    padding: 10px 20px;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    border-radius: 25px;
+}
+.co {
+    background-color: red;
+}
+.st {
+    background-color: #2e3d51;
+}
+td > a{
+    text-decoration: none;
+}
+.duyetbai{
+    float: left;
+}
+.grid_view1 {
+    width: 70%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+}
+
+

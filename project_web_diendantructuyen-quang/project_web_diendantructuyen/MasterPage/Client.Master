@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Client.master.cs" Inherits="project_web_diendantructuyen.MasterPage.Client" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Website forum Diễn Đàn Lớp Lập Trình Web Nâng Cao</title>
+    <link rel="stylesheet" type="text/css" href="../public/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../public/assets.css">
+    <link rel="stylesheet" type="text/css" href="../public/admin.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <script src="../public/tinymce/js/tinymce/tinymce.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="phpbb" class="nojs notouch section-index ltr ">
+    <form id="form1" runat="server">
+    <div id="overall-wrap">
+        <a id="top" class="anchor" accesskey="t"></a>
+        <div id="wrap-head">
+            <div id="site-header">
+                <div class="chunk">
+                    <!-- <div id="site-logo">
+                        <a class="site-logo" href="index50ba-2.html?style=5" title="Board index"></a>
+                        <p class="skiplink"><a href="#start_here">Skip to content</a></p>
+                    </div> -->
+                    <ul id="site-menu" style="float: left;">
+                        <li  class="site-menu"><a href="../TrangChu.aspx" rel="help">Trang chủ</a></li>
+                        <li class="font-icon rightside" ><a href="../DangBaiNhanh.aspx"><i class=""></i><span class="nav-rh-2">Đăng bài nhanh</span></a></li>
+                        <li class="font-icon rightside"><a href="../ThanhVien.aspx"><i class=""></i><span class="nav-rh-2">Thành viên</span></a></li>
+                        <li class="font-icon dropdown-container" >
+                            <a href="" class="dropdown-trigger"><i class=""></i></a>
+                            <div class="dropdown hidden">
+                                <div class="pointer"><div class="pointer-inner"></div></div> 
+                            </div>
+                        </li>
+                    </ul>
+                     <ul id="site-menu" class="site-menuu">
+                         <li>
+                               <asp:TextBox ID="txtkeyword"  class="inputbox1" runat="server" placeholder="Search..."></asp:TextBox>
+                         </li>
+                         <li>
+                               <asp:Button ID="btnSearch" runat="server" class="button1" Text="Tìm kiếm"/>
+                         </li>
+                     </ul>
+                    <ul id="site-menu">
+                        <%--<li  class="site-menu"><a href="../DangKy.aspx">Đăng ký</a></li>
+                        <li class="font-icon rightside"><a href="../DangNhap.aspx" ><i class=""></i><span class="nav-rh-2">Đăng nhập</span></a></li>--%>
+
+                        <li>
+                            <asp:HyperLink ID="HyperLinkDangKy" runat="server" class="check site-menu"  NavigateUrl="~/DangKy.aspx" Visible="True">Đăng Ký</asp:HyperLink>
+                        </li>
+                        <li>
+                            <asp:HyperLink ID="HyperLinkDangNhap" runat="server" class="check font-icon rightside"  NavigateUrl="~/DangNhap.aspx" Visible="True">Đăng Nhập</asp:HyperLink>
+                        </li>
+                         <li>
+                            <asp:HyperLink ID="HyperLinkDangXuat" runat="server" class="check site-menu"  NavigateUrl="~/DangXuat.aspx" Visible="false">Đăng Xuất</asp:HyperLink>
+                         </li>
+                         <li>
+                            <a href="../CapNhatUser.aspx" class="check" id="capnhat">
+                            <asp:Label ID="lblten" class="lblten site-menu" runat="server"></asp:Label></a>
+                         </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+        </form>
+</body>
+</html>

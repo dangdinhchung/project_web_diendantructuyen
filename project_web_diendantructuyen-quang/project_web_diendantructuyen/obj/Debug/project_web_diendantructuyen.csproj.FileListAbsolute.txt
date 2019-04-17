@@ -1,0 +1,112 @@
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\project_web_diendantructuyen.dll.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\project_web_diendantructuyen.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\project_web_diendantructuyen.pdb
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\csc.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\csi.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.csprojAssemblyReference.cache
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.csproj.CopyComplete
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.pdb
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\project_web_diendantructuyen.dll.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\project_web_diendantructuyen.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\project_web_diendantructuyen.pdb
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\csc.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\csc.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\csc.rsp
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\csi.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\csi.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\csi.rsp
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.AppContext.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Console.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\vbc.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\vbc.rsp
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.csprojAssemblyReference.cache
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.csproj.CopyComplete
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.dll
+C:\Users\a\Desktop\BTLLTWNC\project_web_diendantructuyen - chung\project_web_diendantructuyen\obj\Debug\project_web_diendantructuyen.pdb

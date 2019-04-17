@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Server.master.cs" Inherits="project_web_diendantructuyen.MasterPage.Server" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Quản trị - Website forum Diễn Đàn Lớp Lập Trình Web Nâng Cao</title>
+    <meta charset="utf-8">
+     <link rel="stylesheet" type="text/css" href="../public/admin.css">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+    <style>
+        .info_user{
+            float: right;
+            margin-right: 2%;
+        }
+        .info_user > ul {
+            list-style: none;
+        }
+        .info_user > ul > li .check{
+            text-decoration: none;
+        }
+        .info_user > ul > li .check:hover{
+            color: #4caf50;
+        }
+    </style>
+<body>
+    <form id="form1" runat="server">
+   <div class="header">
+       
+           <h1>CHÀO MỪNG BẠN ĐẾN VỚI TRANG QUẢN TRỊ</h1>  
+      
+      <div class="info_user">
+        <ul>
+            <li>
+                <asp:HyperLink ID="HyperLinkDangXuat" runat="server" class="check"  NavigateUrl="~/admin/logout.aspx" Visible="false">Đăng Xuất</asp:HyperLink>
+            </li>
+            <li>
+                <a href="../user/cap-nhat-user.aspx" class="check" id="capnhat">
+                <asp:Label ID="lblten" class="lblten" runat="server"></asp:Label></a>
+            </li>
+        </ul>
+      </div>
+      
+    </div>
+    <div class="row">
+         <div class="col-s-12 col-m-3">
+            <ul class="menu">
+                <li><a href="../QuanLyChuDe/QLChuDe.aspx">Quản lý chủ đề</a></li>
+                <li><a href="../QuanLyBaiDang/QLBaiDang.aspx">Quản lý  bài đăng</a></li>
+                <li><a href="../user/danh-sach-user.aspx">Quản lý user</a></li>
+                <li><a href="../QuanLyThongKe/QLThongKe.aspx">Thống kê</a></li>
+            </ul>
+        </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
